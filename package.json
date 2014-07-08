@@ -1,0 +1,14 @@
+{
+  "name":"ti-atom",
+  "main":"./lib/ti-atom",
+  "version":"0.0.1",
+  "description":"An Atom Package for Titanium Project Creation",
+  "repository":"https://github.com/magnatronus/ti-atom",
+  "license":"MIT",
+  "author": "Steve Rogers <srogers.uk@gmail.com> (http://www.spiralarm.co.uk)",
+  "engines":{
+      "atom":">0.50.0"
+  },
+  "dependencies":{
+    }
+  }
