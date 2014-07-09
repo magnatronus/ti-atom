@@ -1,7 +1,7 @@
 {
   "name":"ti-atom",
   "main":"./lib/ti-atom",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "description":"An Atom Package for Titanium Project Creation",
   "repository":"https://github.com/magnatronus/ti-atom",
   "license":"MIT",

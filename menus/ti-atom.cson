@@ -7,7 +7,13 @@
         'submenu':[
           {'label': 'Classic App', 'command': 'ti-atom:createapp'},
           {'label': 'Alloy App', 'command': 'ti-atom:createalloyapp'}
-        ]}
+        ]},
+        {
+          'label' : 'Run As'
+          'submenu' :[
+            {'label' : 'TiShadow', 'command': 'ti-atom:shadowrun'}
+          ]
+        }
     ]
 
   }
